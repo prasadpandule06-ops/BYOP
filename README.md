@@ -1,4 +1,3 @@
-# BYOP-
 
 # Instagram Lens 🚀
 
