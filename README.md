@@ -47,5 +47,8 @@ The UI, feed, and ads dynamically adapt based on the selected mode.
 - Premium ad targeting
 
 ---
+Team member's 
+- Prasad Pandule
+- Pratik Agarwal
+- Abhinav Rahi
 
-Instagram Lens shifts the platform from capturing attention to understanding intention.
